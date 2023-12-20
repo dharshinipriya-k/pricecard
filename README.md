@@ -1,0 +1,1 @@
+This repo contains code for creating a template of price card using React
